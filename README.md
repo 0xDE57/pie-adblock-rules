@@ -22,6 +22,8 @@ DO NOT USE HONEY
 -
 https://consumerrights.wiki/index.php/Honey_Browser_Plugin
 
+https://www.datarequests.org/blog/honey-data-collection/
+
 * MegaLag - Exposing Honey's Evil Business Model
   * https://www.youtube.com/watch?v=wwB3FmbcC88
 * MegaLag - Exposing the Honey Influencer Scam
