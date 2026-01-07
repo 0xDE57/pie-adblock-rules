@@ -1,7 +1,7 @@
 DO NOT USE PIE
 -
 
-Just use uBlock Origin. It works the best by far and even Pie agrees since they were "inspired" by it?
+Just use uBlock Origin. It works the best by far and even Pie agrees since they were "inspired" by it? (stole it)
 
 * https://www.theregister.com/2025/01/04/pie_adblock_ublock_origin_code/
 * https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/
@@ -24,6 +24,8 @@ https://consumerrights.wiki/index.php/Honey_Browser_Plugin
 
 https://www.datarequests.org/blog/honey-data-collection/
 
+* MegaLag - The Honey Scam is Worse Than I Thought
+  * https://www.youtube.com/watch?v=qCGT_CKGgFE
 * MegaLag - Exposing Honey's Evil Business Model
   * https://www.youtube.com/watch?v=wwB3FmbcC88
 * MegaLag - Exposing the Honey Influencer Scam
