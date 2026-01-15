@@ -20,10 +20,12 @@ None of these entities are trustworthy.
 
 DO NOT USE HONEY
 -
-https://consumerrights.wiki/index.php/Honey_Browser_Plugin
+Sources:
+* https://consumerrights.wiki/index.php/Honey_Browser_Plugin
+* https://www.datarequests.org/blog/honey-data-collection/
+* https://www.benedelman.org/honey-detecting-testers/
 
-https://www.datarequests.org/blog/honey-data-collection/
-
+Videos:
 * MegaLag - The Honey Scam is Worse Than I Thought
   * https://www.youtube.com/watch?v=qCGT_CKGgFE
 * MegaLag - Exposing Honey's Evil Business Model
